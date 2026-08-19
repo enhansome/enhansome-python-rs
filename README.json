@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288265310,
             "language": "Rust",
             "last_commit": "2026-08-09T16:16:03Z",
             "owner": "fastlmm",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 766613368,
             "language": "Rust",
             "last_commit": "2026-07-07T23:42:24Z",
             "owner": "ssmichael1",
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18441167,
             "language": "Python",
-            "last_commit": "2026-08-05T07:48:04Z",
+            "last_commit": "2026-08-19T07:17:48Z",
             "owner": "cds-astro",
             "repo": "mocpy",
             "stars": 77
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666350303,
             "language": "Python",
             "last_commit": "2026-06-29T23:32:27Z",
             "owner": "BooleanCat",
@@ -63,7 +67,7 @@
       "title": "Bioinformatics & Astronomy"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 459025965,
             "language": "Rust",
-            "last_commit": "2026-08-17T17:26:27Z",
+            "last_commit": "2026-08-19T03:01:16Z",
             "owner": "apache",
             "repo": "opendal",
-            "stars": 5323
+            "stars": 5325
           }
         },
         {
@@ -86,18 +91,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 874419862,
             "language": "Python",
             "last_commit": "2026-08-17T21:15:59Z",
             "owner": "developmentseed",
             "repo": "obstore",
-            "stars": 797
+            "stars": 800
           }
         }
       ],
       "title": "Cloud Storage"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -106,11 +112,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11939484,
             "language": "Python",
-            "last_commit": "2026-08-17T22:47:41Z",
+            "last_commit": "2026-08-18T14:17:35Z",
             "owner": "pyca",
             "repo": "cryptography",
-            "stars": 7711
+            "stars": 7714
           }
         },
         {
@@ -120,11 +127,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243825104,
             "language": "Python",
             "last_commit": "2026-08-01T18:45:37Z",
             "owner": "oconnor663",
             "repo": "blake3-py",
-            "stars": 201
+            "stars": 202
           }
         },
         {
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278006182,
             "language": "Rust",
             "last_commit": "2026-02-05T18:29:48Z",
             "owner": "kushaldas",
@@ -145,7 +154,7 @@
       "title": "Cryptography & Hashing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -154,11 +163,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 571186647,
             "language": "Python",
-            "last_commit": "2026-08-18T05:34:12Z",
+            "last_commit": "2026-08-19T05:32:12Z",
             "owner": "pathwaycom",
             "repo": "pathway",
-            "stars": 62437
+            "stars": 62425
           }
         },
         {
@@ -168,11 +178,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263727855,
             "language": "Rust",
-            "last_commit": "2026-08-17T18:05:14Z",
+            "last_commit": "2026-08-19T06:59:21Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39375
+            "stars": 39386
           }
         },
         {
@@ -182,11 +193,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 734174248,
             "language": "Rust",
-            "last_commit": "2026-08-17T10:54:20Z",
+            "last_commit": "2026-08-19T03:41:06Z",
             "owner": "lakehq",
             "repo": "sail",
-            "stars": 3308
+            "stars": 3314
           }
         },
         {
@@ -196,8 +208,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258933250,
             "language": "Rust",
-            "last_commit": "2026-08-17T01:43:45Z",
+            "last_commit": "2026-08-18T19:52:47Z",
             "owner": "delta-io",
             "repo": "delta-rs",
             "stars": 3284
@@ -210,11 +223,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329445418,
             "language": "Rust",
             "last_commit": "2026-08-17T14:23:21Z",
             "owner": "sfu-db",
             "repo": "connector-x",
-            "stars": 2642
+            "stars": 2643
           }
         },
         {
@@ -224,11 +238,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 515951203,
             "language": "Python",
             "last_commit": "2026-08-16T19:45:34Z",
             "owner": "apache",
             "repo": "datafusion-python",
-            "stars": 595
+            "stars": 596
           }
         },
         {
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 795242557,
             "language": "Rust",
             "last_commit": "2026-08-15T06:42:06Z",
             "owner": "apache",
@@ -249,7 +265,7 @@
       "title": "Data Processing & DataFrames"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -258,11 +274,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62095504,
             "language": "Python",
             "last_commit": "2026-07-06T13:26:44Z",
             "owner": "python-pendulum",
             "repo": "pendulum",
-            "stars": 6671
+            "stars": 6672
           }
         },
         {
@@ -272,18 +289,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 717223794,
             "language": "Python",
             "last_commit": "2026-08-18T04:05:16Z",
             "owner": "ariebovenberg",
             "repo": "whenever",
-            "stars": 2385
+            "stars": 2387
           }
         }
       ],
       "title": "Date & Time"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -292,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186404415,
             "language": "Python",
             "last_commit": "2025-10-19T22:57:28Z",
             "owner": "fastuuid",
@@ -306,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 495430973,
             "language": "Rust",
             "last_commit": "2025-09-01T12:05:34Z",
             "owner": "yankun1992",
@@ -320,8 +340,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1012160857,
             "language": "Python",
-            "last_commit": "2026-08-17T23:53:33Z",
+            "last_commit": "2026-08-18T23:10:34Z",
             "owner": "OutSquareCapital",
             "repo": "pyochain",
             "stars": 65
@@ -334,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 608018848,
             "language": "Rust",
             "last_commit": "2026-08-17T22:07:49Z",
             "owner": "crate-py",
@@ -345,7 +367,7 @@
       "title": "Data Structures"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -354,11 +376,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106854381,
             "language": "Python",
             "last_commit": "2026-08-09T06:45:58Z",
             "owner": "samuelcolvin",
             "repo": "watchfiles",
-            "stars": 2526
+            "stars": 2528
           }
         },
         {
@@ -368,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245773040,
             "language": "Rust",
             "last_commit": "2026-05-18T05:53:00Z",
             "owner": "milesgranger",
@@ -379,7 +403,7 @@
       "title": "File Watching & System Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -388,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 621812704,
             "language": null,
             "last_commit": "2026-05-20T19:52:54Z",
             "owner": "attack68",
@@ -402,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702596547,
             "language": "Rust",
             "last_commit": "2026-05-01T14:52:48Z",
             "owner": "Nnamdi-sys",
@@ -413,7 +439,7 @@
       "title": "Finance"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -422,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 704276948,
             "language": "Rust",
             "last_commit": "2026-04-17T15:50:53Z",
             "owner": "georust",
@@ -436,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 568766261,
             "language": "Python",
             "last_commit": "2026-08-10T13:29:27Z",
             "owner": "ringsaturn",
@@ -450,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 647439433,
             "language": "Rust",
             "last_commit": "2026-08-18T05:27:04Z",
             "owner": "jessekrubin",
@@ -461,7 +490,7 @@
       "title": "Geospatial"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -470,11 +499,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 930255337,
             "language": "Rust",
             "last_commit": "2026-08-17T12:50:01Z",
             "owner": "0x676e67",
             "repo": "wreq-python",
-            "stars": 1425
+            "stars": 1427
           }
         },
         {
@@ -484,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 785626775,
             "language": "Rust",
             "last_commit": "2026-07-28T07:12:45Z",
             "owner": "deedy5",
@@ -498,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1016651482,
             "language": "Python",
             "last_commit": "2026-08-11T19:54:35Z",
             "owner": "MarkusSintonen",
@@ -509,7 +541,7 @@
       "title": "HTTP Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -518,11 +550,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-18T07:26:06Z",
+            "last_commit": "2026-08-19T06:20:04Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49237
+            "stars": 49242
           }
         },
         {
@@ -532,11 +565,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 976731654,
             "language": "Python",
-            "last_commit": "2026-08-17T16:01:44Z",
+            "last_commit": "2026-08-19T05:48:00Z",
             "owner": "astral-sh",
             "repo": "ty",
-            "stars": 19479
+            "stars": 19491
           }
         },
         {
@@ -546,11 +580,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 935685654,
             "language": "Rust",
-            "last_commit": "2026-08-18T05:54:49Z",
+            "last_commit": "2026-08-19T06:30:45Z",
             "owner": "facebook",
             "repo": "pyrefly",
-            "stars": 6892
+            "stars": 6896
           }
         },
         {
@@ -560,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 577313454,
             "language": "Rust",
             "last_commit": "2025-05-10T02:10:33Z",
             "owner": "mtshiba",
@@ -574,11 +610,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 940812004,
             "language": "Rust",
-            "last_commit": "2026-08-18T07:24:48Z",
+            "last_commit": "2026-08-18T18:46:28Z",
             "owner": "rvben",
             "repo": "rumdl",
-            "stars": 1431
+            "stars": 1436
           }
         },
         {
@@ -588,18 +625,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 872537155,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:37:34Z",
+            "last_commit": "2026-08-18T12:35:53Z",
             "owner": "zubanls",
             "repo": "zuban",
-            "stars": 1161
+            "stars": 1164
           }
         }
       ],
       "title": "Linting, Formatting & Type Checking"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -608,11 +646,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136780445,
             "language": "Rust",
             "last_commit": "2026-08-12T07:32:03Z",
             "owner": "kitao",
             "repo": "pyxel",
-            "stars": 17649
+            "stars": 17654
           }
         },
         {
@@ -622,8 +661,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 694184693,
             "language": "Python",
-            "last_commit": "2026-08-18T05:57:26Z",
+            "last_commit": "2026-08-19T07:25:50Z",
             "owner": "y-crdt",
             "repo": "pycrdt",
             "stars": 203
@@ -636,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 717061945,
             "language": "Rust",
             "last_commit": "2026-08-14T05:34:04Z",
             "owner": "jessekrubin",
@@ -647,7 +688,7 @@
       "title": "Miscellaneous"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -656,11 +697,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 699532645,
             "language": "Rust",
-            "last_commit": "2026-08-18T00:18:53Z",
+            "last_commit": "2026-08-19T03:46:47Z",
             "owner": "astral-sh",
             "repo": "uv",
-            "stars": 88825
+            "stars": 88864
           }
         },
         {
@@ -670,11 +712,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 868811259,
             "language": "Rust",
-            "last_commit": "2026-08-18T06:19:19Z",
+            "last_commit": "2026-08-19T06:13:57Z",
             "owner": "j178",
             "repo": "prek",
-            "stars": 8269
+            "stars": 8274
           }
         },
         {
@@ -684,11 +727,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 633817517,
             "language": "Rust",
-            "last_commit": "2026-08-18T01:28:43Z",
+            "last_commit": "2026-08-19T07:18:33Z",
             "owner": "prefix-dev",
             "repo": "pixi",
-            "stars": 7582
+            "stars": 7589
           }
         },
         {
@@ -698,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141846986,
             "language": "Rust",
             "last_commit": "2026-08-17T17:03:20Z",
             "owner": "PyO3",
@@ -709,7 +754,7 @@
       "title": "Package Management & Tooling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -718,11 +763,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135201145,
             "language": "Rust",
-            "last_commit": "2026-08-18T04:49:51Z",
+            "last_commit": "2026-08-19T04:13:04Z",
             "owner": "RustPython",
             "repo": "RustPython",
-            "stars": 22289
+            "stars": 22290
           }
         },
         {
@@ -732,11 +778,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91151442,
             "language": "Rust",
-            "last_commit": "2026-08-17T10:22:39Z",
+            "last_commit": "2026-08-18T14:32:01Z",
             "owner": "PyO3",
             "repo": "pyo3",
-            "stars": 16043
+            "stars": 16047
           }
         },
         {
@@ -746,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84393574,
             "language": "Python",
             "last_commit": "2026-08-12T22:13:02Z",
             "owner": "PyO3",
@@ -757,7 +805,7 @@
       "title": "Rust-Python Interop"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -766,11 +814,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167388434,
             "language": "Python",
             "last_commit": "2026-08-12T14:45:51Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5917
+            "stars": 5918
           }
         },
         {
@@ -780,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222310153,
             "language": "Rust",
             "last_commit": "2026-08-08T19:24:31Z",
             "owner": "pkalivas",
@@ -794,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424905104,
             "language": "Rust",
             "last_commit": "2026-08-14T15:01:45Z",
             "owner": "feos-org",
@@ -808,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486014834,
             "language": "Rust",
             "last_commit": "2026-04-13T23:15:28Z",
             "owner": "jinlow",
@@ -822,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 539506551,
             "language": "Rust",
             "last_commit": "2026-08-13T01:26:36Z",
             "owner": "jonaspleyer",
@@ -833,7 +886,7 @@
       "title": "Scientific Computing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -842,8 +895,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190163438,
             "language": "Rust",
-            "last_commit": "2026-08-11T01:31:22Z",
+            "last_commit": "2026-08-18T20:10:04Z",
             "owner": "quickwit-oss",
             "repo": "tantivy-py",
             "stars": 424
@@ -856,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 358014052,
             "language": "Python",
             "last_commit": "2026-08-10T12:23:54Z",
             "owner": "G-Research",
@@ -870,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1220603817,
             "language": "Python",
             "last_commit": "2026-04-25T14:48:28Z",
             "owner": "AiDinho",
@@ -881,7 +937,7 @@
       "title": "Search & Indexing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -890,11 +946,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158618772,
             "language": "Python",
             "last_commit": "2026-08-14T16:22:49Z",
             "owner": "ijl",
             "repo": "orjson",
-            "stars": 8204
+            "stars": 8206
           }
         },
         {
@@ -904,8 +961,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 555491597,
             "language": "Rust",
-            "last_commit": "2026-08-17T12:54:02Z",
+            "last_commit": "2026-08-18T21:01:47Z",
             "owner": "pydantic",
             "repo": "jiter",
             "stars": 540
@@ -918,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 373971276,
             "language": "Rust",
             "last_commit": "2026-08-15T07:21:58Z",
             "owner": "ormsgpack",
@@ -932,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 717191067,
             "language": "Mathematical Programming System",
             "last_commit": "2026-08-17T20:14:11Z",
             "owner": "dandxy89",
@@ -943,7 +1003,7 @@
       "title": "Serialization & Parsing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -952,11 +1012,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 573203730,
             "language": "Python",
             "last_commit": "2026-08-17T05:25:57Z",
             "owner": "openai",
             "repo": "tiktoken",
-            "stars": 19026
+            "stars": 19031
           }
         },
         {
@@ -966,11 +1027,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219035799,
             "language": "Rust",
-            "last_commit": "2026-08-18T06:48:08Z",
+            "last_commit": "2026-08-19T07:23:55Z",
             "owner": "huggingface",
             "repo": "tokenizers",
-            "stars": 10975
+            "stars": 10979
           }
         },
         {
@@ -980,18 +1042,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540033828,
             "language": "Rust",
-            "last_commit": "2026-08-15T17:33:46Z",
+            "last_commit": "2026-08-18T20:00:10Z",
             "owner": "safetensors",
             "repo": "safetensors",
-            "stars": 3858
+            "stars": 3859
           }
         }
       ],
       "title": "Tokenization & ML"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1000,6 +1063,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 477896448,
             "language": "Python",
             "last_commit": "2026-01-07T07:36:47Z",
             "owner": "pydantic",
@@ -1014,8 +1078,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245613208,
             "language": "Rust",
-            "last_commit": "2026-08-18T06:34:12Z",
+            "last_commit": "2026-08-19T07:08:00Z",
             "owner": "Stranger6667",
             "repo": "jsonschema",
             "stars": 804
@@ -1025,7 +1090,7 @@
       "title": "Validation & Data Modeling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1034,6 +1099,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378100758,
             "language": "Python",
             "last_commit": "2026-08-17T18:43:25Z",
             "owner": "sparckles",
@@ -1048,18 +1114,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 482022441,
             "language": "Rust",
-            "last_commit": "2026-08-05T18:09:20Z",
+            "last_commit": "2026-08-18T09:23:28Z",
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5556
+            "stars": 5557
           }
         }
       ],
       "title": "Web Frameworks & Servers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1068,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112110982,
             "language": "Cython",
             "last_commit": "2026-07-15T07:01:49Z",
             "owner": "rushter",
@@ -1082,6 +1150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273900318,
             "language": "Rust",
             "last_commit": "2026-08-13T21:34:51Z",
             "owner": "Stranger6667",
@@ -1096,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 42392351,
             "language": "Python",
             "last_commit": "2017-11-09T22:24:09Z",
             "owner": "SimonSapin",
@@ -1110,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 910137766,
             "language": "Rust",
             "last_commit": "2026-07-21T17:50:39Z",
             "owner": "awolverp",
@@ -1124,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 834884150,
             "language": "Rust",
             "last_commit": "2026-04-23T00:32:23Z",
             "owner": "deedy5",
@@ -1133,20 +1205,10 @@
         }
       ],
       "title": "Web Scraping & HTML"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Footnotes"
-    },
-    {
-      "description": "Contributions welcome! Please read the contributing guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:26:18.522Z",
+    "last_updated": "2026-08-19T07:27:26.666Z",
     "original_repository": "ritwiktiwari/awesome-python-rs",
     "original_repository_sha": "81fcd1e055f3bf306a7061cd816c8306cc42d8df",
     "enhanced_repository": "enhansome/enhansome-python-rs",
