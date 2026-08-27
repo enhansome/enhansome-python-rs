@@ -78,10 +78,10 @@
             "archived": false,
             "id": 459025965,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:31:40Z",
+            "last_commit": "2026-08-27T17:26:41Z",
             "owner": "apache",
             "repo": "opendal",
-            "stars": 5341
+            "stars": 5344
           }
         },
         {
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 11939484,
             "language": "Python",
-            "last_commit": "2026-08-27T11:06:00Z",
+            "last_commit": "2026-08-27T13:44:31Z",
             "owner": "pyca",
             "repo": "cryptography",
             "stars": 7726
@@ -180,10 +180,10 @@
             "archived": false,
             "id": 263727855,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:51:28Z",
+            "last_commit": "2026-08-27T14:00:46Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39512
+            "stars": 39515
           }
         },
         {
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 734174248,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:56:05Z",
+            "last_commit": "2026-08-27T16:00:24Z",
             "owner": "lakehq",
             "repo": "sail",
-            "stars": 3333
+            "stars": 3334
           }
         },
         {
@@ -210,7 +210,7 @@
             "archived": false,
             "id": 258933250,
             "language": "Rust",
-            "last_commit": "2026-08-26T20:47:47Z",
+            "last_commit": "2026-08-27T17:37:13Z",
             "owner": "delta-io",
             "repo": "delta-rs",
             "stars": 3290
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-24T04:06:47Z",
             "owner": "ariebovenberg",
             "repo": "whenever",
-            "stars": 2398
+            "stars": 2399
           }
         }
       ],
@@ -342,7 +342,7 @@
             "archived": false,
             "id": 1012160857,
             "language": "Python",
-            "last_commit": "2026-08-26T23:55:07Z",
+            "last_commit": "2026-08-27T17:42:11Z",
             "owner": "OutSquareCapital",
             "repo": "pyochain",
             "stars": 67
@@ -552,10 +552,10 @@
             "archived": false,
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:55:51Z",
+            "last_commit": "2026-08-27T17:54:26Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49351
+            "stars": 49361
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-08-26T22:11:40Z",
             "owner": "astral-sh",
             "repo": "ty",
-            "stars": 19568
+            "stars": 19572
           }
         },
         {
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 935685654,
             "language": "Rust",
-            "last_commit": "2026-08-27T07:07:27Z",
+            "last_commit": "2026-08-27T15:51:24Z",
             "owner": "facebook",
             "repo": "pyrefly",
             "stars": 6907
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 940812004,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:17:19Z",
+            "last_commit": "2026-08-27T13:07:37Z",
             "owner": "rvben",
             "repo": "rumdl",
             "stars": 1451
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-26T15:39:57Z",
             "owner": "zubanls",
             "repo": "zuban",
-            "stars": 1166
+            "stars": 1168
           }
         }
       ],
@@ -651,7 +651,7 @@
             "last_commit": "2026-08-12T07:32:03Z",
             "owner": "kitao",
             "repo": "pyxel",
-            "stars": 17776
+            "stars": 17778
           }
         },
         {
@@ -678,7 +678,7 @@
             "archived": false,
             "id": 717061945,
             "language": "Rust",
-            "last_commit": "2026-08-24T15:09:54Z",
+            "last_commit": "2026-08-27T13:54:56Z",
             "owner": "jessekrubin",
             "repo": "ry",
             "stars": 75
@@ -699,10 +699,10 @@
             "archived": false,
             "id": 699532645,
             "language": "Rust",
-            "last_commit": "2026-08-27T02:03:40Z",
+            "last_commit": "2026-08-27T17:50:25Z",
             "owner": "astral-sh",
             "repo": "uv",
-            "stars": 89144
+            "stars": 89161
           }
         },
         {
@@ -717,7 +717,7 @@
             "last_commit": "2026-08-27T11:00:42Z",
             "owner": "j178",
             "repo": "prek",
-            "stars": 8323
+            "stars": 8327
           }
         },
         {
@@ -729,10 +729,10 @@
             "archived": false,
             "id": 633817517,
             "language": "Rust",
-            "last_commit": "2026-08-27T09:38:38Z",
+            "last_commit": "2026-08-27T15:51:36Z",
             "owner": "prefix-dev",
             "repo": "pixi",
-            "stars": 7646
+            "stars": 7648
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2026-08-26T14:38:11Z",
             "owner": "RustPython",
             "repo": "RustPython",
-            "stars": 22306
+            "stars": 22307
           }
         },
         {
@@ -780,7 +780,7 @@
             "archived": false,
             "id": 91151442,
             "language": "Rust",
-            "last_commit": "2026-08-27T08:52:54Z",
+            "last_commit": "2026-08-27T17:49:35Z",
             "owner": "PyO3",
             "repo": "pyo3",
             "stars": 16076
@@ -846,7 +846,7 @@
             "archived": false,
             "id": 424905104,
             "language": "Rust",
-            "last_commit": "2026-08-20T16:03:45Z",
+            "last_commit": "2026-08-27T17:13:21Z",
             "owner": "feos-org",
             "repo": "feos",
             "stars": 194
@@ -900,7 +900,7 @@
             "last_commit": "2026-08-26T23:30:19Z",
             "owner": "quickwit-oss",
             "repo": "tantivy-py",
-            "stars": 424
+            "stars": 425
           }
         },
         {
@@ -963,7 +963,7 @@
             "archived": false,
             "id": 555491597,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:17:30Z",
+            "last_commit": "2026-08-27T15:06:22Z",
             "owner": "pydantic",
             "repo": "jiter",
             "stars": 545
@@ -1017,7 +1017,7 @@
             "last_commit": "2026-08-17T05:25:57Z",
             "owner": "openai",
             "repo": "tiktoken",
-            "stars": 19105
+            "stars": 19106
           }
         },
         {
@@ -1029,10 +1029,10 @@
             "archived": false,
             "id": 219035799,
             "language": "Rust",
-            "last_commit": "2026-08-26T16:26:22Z",
+            "last_commit": "2026-08-27T14:43:21Z",
             "owner": "huggingface",
             "repo": "tokenizers",
-            "stars": 10997
+            "stars": 10999
           }
         },
         {
@@ -1047,7 +1047,7 @@
             "last_commit": "2026-08-27T11:52:34Z",
             "owner": "safetensors",
             "repo": "safetensors",
-            "stars": 3876
+            "stars": 3877
           }
         }
       ],
@@ -1104,7 +1104,7 @@
             "last_commit": "2026-08-24T18:22:10Z",
             "owner": "sparckles",
             "repo": "Robyn",
-            "stars": 7382
+            "stars": 7383
           }
         },
         {
@@ -1119,7 +1119,7 @@
             "last_commit": "2026-08-23T16:48:39Z",
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5570
+            "stars": 5571
           }
         }
       ],
@@ -1208,7 +1208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:58:32.630Z",
+    "last_updated": "2026-08-27T17:55:19.522Z",
     "original_repository_info": {
       "archived": false,
       "id": 1147969798,
