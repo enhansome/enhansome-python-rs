@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Satellite and Orbital Dynamics Toolkit",
+            "homepage": "https://satkit.dev",
             "id": 766613368,
             "language": "Rust",
-            "last_commit": "2026-08-28T19:04:18Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:13:14Z",
+            "open_issues": 11,
             "owner": "ssmichael1",
             "repo": "satkit",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for easy, fast, and efficient reading & writing of PLINK Bed files",
+            "homepage": null,
             "id": 288265310,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-09T16:16:03Z",
+            "open_issues": 4,
             "owner": "fastlmm",
             "repo": "bed-reader",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -42,12 +52,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library to easily create and manipulate MOCs (Multi-Order Coverage maps)",
+            "homepage": "https://cds-astro.github.io/mocpy/",
             "id": 18441167,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T07:17:48Z",
+            "open_issues": 7,
             "owner": "cds-astro",
             "repo": "mocpy",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "astronomy",
+              "astronomy-astrophysics",
+              "astrophysics",
+              "astropy-affiliated",
+              "gravitational-waves",
+              "healpix",
+              "moc",
+              "open-source",
+              "python",
+              "tesselation"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -58,12 +84,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for working on Bioinformatics problems",
+            "homepage": null,
             "id": 666350303,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-29T23:32:27Z",
+            "open_issues": 6,
             "owner": "BooleanCat",
             "repo": "haem",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -80,12 +111,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache OpenDAL: One Layer, All Storage.",
+            "homepage": "https://opendal.apache.org",
             "id": 459025965,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:02:47Z",
+            "open_issues": 316,
             "owner": "apache",
             "repo": "opendal",
-            "stars": 5355
+            "stars": 5357,
+            "topics": [
+              "azblob",
+              "gcs",
+              "hacktoberfest",
+              "redis",
+              "rust",
+              "s3",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -96,12 +140,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The simplest, highest-throughput Python interface to S3, GCS & Azure Storage, powered by Rust.",
+            "homepage": "https://developmentseed.org/obstore",
             "id": 874419862,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T23:39:08Z",
+            "open_issues": 54,
             "owner": "developmentseed",
             "repo": "obstore",
-            "stars": 807
+            "stars": 807,
+            "topics": [
+              "amazon-s3",
+              "azure",
+              "azure-storage",
+              "cloudflare-r2",
+              "google-cloud-storage",
+              "object-store",
+              "python",
+              "rust",
+              "s3"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -118,12 +177,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.",
+            "homepage": "https://cryptography.io",
             "id": 11939484,
             "language": "Python",
-            "last_commit": "2026-08-28T14:33:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T20:27:50Z",
+            "open_issues": 36,
             "owner": "pyca",
             "repo": "cryptography",
-            "stars": 7731
+            "stars": 7731,
+            "topics": [
+              "cryptography",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -134,12 +201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python bindings for the BLAKE3 cryptographic hash function",
+            "homepage": null,
             "id": 243825104,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-01T18:45:37Z",
+            "open_issues": 7,
             "owner": "oconnor663",
             "repo": "blake3-py",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -150,12 +222,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python module for OpenPGP written in Rust.",
+            "homepage": null,
             "id": 278006182,
             "language": "Rust",
+            "license": "LGPL-3.0",
             "last_commit": "2026-02-05T18:29:48Z",
+            "open_issues": 2,
             "owner": "kushaldas",
             "repo": "johnnycanencrypt",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "ecryption",
+              "gpg",
+              "openpgp",
+              "python",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -172,12 +255,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+            "homepage": "https://pathway.com",
             "id": 571186647,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T05:31:40Z",
+            "open_issues": 35,
             "owner": "pathwaycom",
             "repo": "pathway",
-            "stars": 62374
+            "stars": 62374,
+            "topics": [
+              "batch-processing",
+              "data-analytics",
+              "data-pipelines",
+              "data-processing",
+              "dataflow",
+              "etl",
+              "etl-framework",
+              "iot-analytics",
+              "kafka",
+              "machine-learning-algorithms",
+              "pathway",
+              "python",
+              "real-time",
+              "rust",
+              "stream-processing",
+              "streaming",
+              "time-series-analysis"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -188,12 +294,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extremely fast Query Engine for DataFrames, written in Rust",
+            "homepage": "https://docs.pola.rs",
             "id": 263727855,
             "language": "Rust",
-            "last_commit": "2026-08-28T18:51:00Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:38:14Z",
+            "open_issues": 2870,
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39530
+            "stars": 39536,
+            "topics": [
+              "arrow",
+              "dataframe",
+              "dataframe-library",
+              "dataframes",
+              "out-of-core",
+              "polars",
+              "python",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -204,12 +324,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+            "homepage": "https://lakesail.com",
             "id": 734174248,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:58:18Z",
+            "open_issues": 253,
             "owner": "lakehq",
             "repo": "sail",
-            "stars": 3334
+            "stars": 3334,
+            "topics": [
+              "apache-iceberg",
+              "apache-spark",
+              "arrow",
+              "artificial-intelligence",
+              "big-data",
+              "data-engineering",
+              "datafusion",
+              "delta-lake",
+              "distributed-computing",
+              "iceberg",
+              "lakehouse",
+              "machine-learning",
+              "parquet",
+              "pyspark",
+              "python",
+              "rust",
+              "spark",
+              "spark-connect",
+              "spark-sql",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -220,12 +366,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native Rust library for Delta Lake, with bindings into Python",
+            "homepage": "https://delta-io.github.io/delta-rs/",
             "id": 258933250,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:37:13Z",
+            "open_issues": 174,
             "owner": "delta-io",
             "repo": "delta-rs",
-            "stars": 3290
+            "stars": 3290,
+            "topics": [
+              "databricks",
+              "delta",
+              "delta-lake",
+              "pandas",
+              "pandas-dataframe",
+              "python",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -236,12 +395,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fastest library to load data from DB to DataFrames in Rust and Python",
+            "homepage": "https://sfu-db.github.io/connector-x",
             "id": 329445418,
             "language": "Rust",
-            "last_commit": "2026-08-28T04:50:48Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:55:21Z",
+            "open_issues": 223,
             "owner": "sfu-db",
             "repo": "connector-x",
-            "stars": 2647
+            "stars": 2648,
+            "topics": [
+              "cpp",
+              "database",
+              "dataframe",
+              "python",
+              "rust",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -252,12 +423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache DataFusion Python Bindings",
+            "homepage": "https://datafusion.apache.org/python",
             "id": 515951203,
             "language": "Python",
-            "last_commit": "2026-08-28T18:49:14Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:18:56Z",
+            "open_issues": 91,
             "owner": "apache",
             "repo": "datafusion-python",
-            "stars": 597
+            "stars": 597,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -268,12 +444,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The native Rust implementation for Apache Hudi, with C++ & Python API bindings.",
+            "homepage": "https://hudi.apache.org/",
             "id": 795242557,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T06:42:06Z",
+            "open_issues": 104,
             "owner": "apache",
             "repo": "hudi-rs",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "apache",
+              "c-plus-plus",
+              "hudi",
+              "python",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -290,12 +477,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python datetimes made easy",
+            "homepage": "https://pendulum.eustace.io",
             "id": 62095504,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T13:03:52Z",
+            "open_issues": 266,
             "owner": "python-pendulum",
             "repo": "pendulum",
-            "stars": 6673
+            "stars": 6673,
+            "topics": [
+              "date",
+              "datetime",
+              "python",
+              "python3",
+              "time",
+              "timezones"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -306,12 +505,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice",
+            "homepage": "https://whenever.rtfd.io",
             "id": 717223794,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T04:06:47Z",
+            "open_issues": 17,
             "owner": "ariebovenberg",
             "repo": "whenever",
-            "stars": 2401
+            "stars": 2401,
+            "topics": [
+              "cpython",
+              "datetime",
+              "mypy",
+              "pure-python",
+              "pypy",
+              "python",
+              "rfc3339",
+              "rust",
+              "timezones",
+              "type-safe",
+              "utc",
+              "utc-offsets"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -328,12 +545,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FastUUID is a library which provides CPython bindings to Rust's UUID library",
+            "homepage": null,
             "id": 186404415,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-19T22:57:28Z",
+            "open_issues": 14,
             "owner": "fastuuid",
             "repo": "fastuuid",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "cpython-extensions",
+              "library",
+              "pyo3",
+              "python",
+              "python-3",
+              "python3",
+              "rust",
+              "uuid",
+              "uuid-generator",
+              "uuid-parser",
+              "uuid-v4",
+              "uuid3",
+              "uuid4",
+              "uuid5",
+              "uuidv7"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -344,12 +582,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast bloom filter implemented  by Rust for Python! 10x faster than pybloom!",
+            "homepage": null,
             "id": 495430973,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-01T12:05:34Z",
+            "open_issues": 5,
             "owner": "yankun1992",
             "repo": "fastbloom",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "bloom-filter",
+              "bloomfilter",
+              "counting-bloom-filter",
+              "counting-bloom-filters",
+              "murmur3",
+              "pyo3",
+              "python",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -360,12 +612,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Iterator, sorted containers, Result, Option, ABCs and more, written in Rust, for Python",
+            "homepage": "https://outsquarecapital.github.io/pyochain/",
             "id": 1012160857,
             "language": "Python",
-            "last_commit": "2026-08-28T15:56:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:41:59Z",
+            "open_issues": 14,
             "owner": "OutSquareCapital",
             "repo": "pyochain",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "functional-programming",
+              "iterator",
+              "option-type",
+              "pyo3",
+              "pyo3-rust-bindings",
+              "python",
+              "result-type",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -376,12 +642,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python bindings to the Rust rpds crate for persistent data structures",
+            "homepage": "https://rpds.readthedocs.io/",
             "id": 608018848,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:38:51Z",
+            "open_issues": 10,
             "owner": "crate-py",
             "repo": "rpds",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "persistent-data-structure",
+              "pyo3",
+              "pyo3-rust-bindings",
+              "python",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -398,12 +675,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, modern and fast file watching and code reload for Python, written in Rust",
+            "homepage": "https://watchfiles.helpmanual.io",
             "id": 106854381,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-09T06:45:58Z",
+            "open_issues": 48,
             "owner": "samuelcolvin",
             "repo": "watchfiles",
-            "stars": 2530
+            "stars": 2530,
+            "topics": [
+              "asyncio",
+              "filesystem",
+              "inotify",
+              "inotifywatch",
+              "notify",
+              "python",
+              "rust",
+              "uvicorn"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -414,12 +705,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your go-to for easy access to a plethora of compression algorithms, all neatly bundled in one simple installation.",
+            "homepage": null,
             "id": 245773040,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-25T10:58:16Z",
+            "open_issues": 12,
             "owner": "milesgranger",
             "repo": "cramjam",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "blosc2",
+              "brotli",
+              "bzip2",
+              "compression",
+              "decompression",
+              "deflate",
+              "gzip",
+              "lz4",
+              "python",
+              "rust",
+              "snappy",
+              "zstd"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -436,12 +745,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fixed income library for pricing bonds and bond futures, and derivatives such as interest rate swaps (IRS), cross-currency swaps (XCS) and FX swaps. Contains tools for full curveset construction with market standard optimisers and automatic differentiation (AD) and risk sensitivity calculations including delta and cross-gamma.",
+            "homepage": "https://rateslib.com/py/",
             "id": 621812704,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-05-20T19:52:54Z",
+            "open_issues": 29,
             "owner": "attack68",
             "repo": "rateslib",
-            "stars": 353
+            "stars": 353,
+            "topics": [
+              "bonds",
+              "cross-currency",
+              "currency",
+              "curves",
+              "derivatives",
+              "derivatives-pricing",
+              "finance",
+              "fixed-income",
+              "fx",
+              "inflation",
+              "inflation-linked",
+              "interest-rates",
+              "investment",
+              "python",
+              "risk",
+              "risk-management",
+              "students",
+              "swaps",
+              "trading",
+              "treasury"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -452,12 +787,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rust library for financial data analysis",
+            "homepage": "https://finalytics.rs/",
             "id": 702596547,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-05-01T14:52:48Z",
+            "open_issues": 2,
             "owner": "Nnamdi-sys",
             "repo": "finalytics",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "financial-analysis",
+              "python",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -474,12 +818,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rust crate and Python library for packed, immutable, zero-copy spatial indexes.",
+            "homepage": "https://georust.github.io/geo-index",
             "id": 704276948,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-17T15:50:53Z",
+            "open_issues": 31,
             "owner": "georust",
             "repo": "geo-index",
-            "stars": 198
+            "stars": 198,
+            "topics": [
+              "flatbush",
+              "georust",
+              "geospatial",
+              "kdbush",
+              "kdtree",
+              "pyo3",
+              "python",
+              "rtree",
+              "rust",
+              "spatial-indexes"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -490,12 +850,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Probably the fastest Python package to convert longitude/latitude to timezone name.",
+            "homepage": "https://pypi.org/project/tzfpy/",
             "id": 568766261,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T13:29:27Z",
+            "open_issues": 3,
             "owner": "ringsaturn",
             "repo": "tzfpy",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "gps-location",
+              "latitude",
+              "longitude",
+              "python",
+              "python-library",
+              "rust",
+              "timezone",
+              "timezone-library",
+              "timezone-picker",
+              "tzf"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -506,12 +882,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "utiles = utils & (web-map-)tiles w/ (rs & pyo3)",
+            "homepage": null,
             "id": 647439433,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T19:55:07Z",
+            "open_issues": 7,
             "owner": "jessekrubin",
             "repo": "utiles",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "geoscience",
+              "maps",
+              "mercantile"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -528,12 +913,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ergonomic, privacy-aware Python HTTP Client",
+            "homepage": "https://python.wreq.org",
             "id": 930255337,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T17:41:24Z",
+            "open_issues": 9,
             "owner": "0x676e67",
             "repo": "wreq-python",
-            "stars": 1437
+            "stars": 1437,
+            "topics": [
+              "akamai",
+              "akamai-fingerprint",
+              "censorship-resistant",
+              "crawler",
+              "fingerprint",
+              "http",
+              "http-client",
+              "http2",
+              "https",
+              "ja3",
+              "ja4",
+              "python",
+              "rust",
+              "scraper",
+              "tls",
+              "tls-client",
+              "tls-fingerprint",
+              "web-scraping",
+              "websocket",
+              "websocket-client"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -544,12 +955,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP client that can impersonate web browsers",
+            "homepage": null,
             "id": 785626775,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:00:27Z",
+            "open_issues": 2,
             "owner": "deedy5",
             "repo": "primp",
-            "stars": 578
+            "stars": 578,
+            "topics": [
+              "akamai",
+              "curl",
+              "fingerprint",
+              "http",
+              "http-client",
+              "https",
+              "impersonate",
+              "ja3",
+              "ja4",
+              "python",
+              "requests",
+              "tls",
+              "tls-client",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -560,12 +991,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Python HTTP client based on Rust reqwest",
+            "homepage": "https://markussintonen.github.io/pyreqwest/",
             "id": 1016651482,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T19:54:35Z",
+            "open_issues": 5,
             "owner": "MarkusSintonen",
             "repo": "pyreqwest",
-            "stars": 396
+            "stars": 396,
+            "topics": [
+              "http",
+              "http-client",
+              "http2",
+              "python",
+              "reqwest",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -582,12 +1025,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extremely fast Python linter and code formatter, written in Rust.",
+            "homepage": "https://docs.astral.sh/ruff",
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-28T18:35:13Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:57:15Z",
+            "open_issues": 2148,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49368
+            "stars": 49376,
+            "topics": [
+              "linter",
+              "pep8",
+              "python",
+              "python3",
+              "ruff",
+              "rust",
+              "rustpython",
+              "static-analysis",
+              "static-code-analysis",
+              "style-guide",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -598,12 +1058,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extremely fast Python type checker and language server, written in Rust.",
+            "homepage": "https://docs.astral.sh/ty/",
             "id": 976731654,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T22:11:40Z",
+            "open_issues": 898,
             "owner": "astral-sh",
             "repo": "ty",
-            "stars": 19575
+            "stars": 19576,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -614,12 +1079,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast type checker and language server for Python",
+            "homepage": "http://pyrefly.org/",
             "id": 935685654,
             "language": "Rust",
-            "last_commit": "2026-08-28T18:41:00Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:21:49Z",
+            "open_issues": 671,
             "owner": "facebook",
             "repo": "pyrefly",
-            "stars": 6911
+            "stars": 6911,
+            "topics": [
+              "code-quality",
+              "ide",
+              "language-server",
+              "language-server-protocol",
+              "lsp",
+              "python",
+              "rust",
+              "type-annotations",
+              "type-check",
+              "type-checker",
+              "type-hints",
+              "typecheck",
+              "typechecker",
+              "typechecking",
+              "types",
+              "typing",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -630,12 +1118,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, feature-rich static code analyzer & language server for Python",
+            "homepage": "http://mtshiba.github.io/pylyzer/",
             "id": 577313454,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-05-10T02:10:33Z",
+            "open_issues": 10,
             "owner": "mtshiba",
             "repo": "pylyzer",
-            "stars": 2859
+            "stars": 2859,
+            "topics": [
+              "language-server",
+              "python",
+              "rust",
+              "static-analysis",
+              "type-checker"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -646,12 +1145,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Markdown linter and formatter written in Rust",
+            "homepage": null,
             "id": 940812004,
             "language": "Rust",
-            "last_commit": "2026-08-28T18:56:25Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:54:13Z",
+            "open_issues": 9,
             "owner": "rvben",
             "repo": "rumdl",
-            "stars": 1455
+            "stars": 1459,
+            "topics": [
+              "cli",
+              "developer-tools",
+              "formatter",
+              "linter",
+              "markdown",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -662,12 +1173,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Type Checker / Language Server",
+            "homepage": "https://zubanls.com",
             "id": 872537155,
             "language": "Rust",
-            "last_commit": "2026-08-26T15:39:57Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:28:31Z",
+            "open_issues": 92,
             "owner": "zubanls",
             "repo": "zuban",
-            "stars": 1169
+            "stars": 1169,
+            "topics": [
+              "autocompletion",
+              "language-server-protocol",
+              "mypy",
+              "python",
+              "static-analysis",
+              "type-checking"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -684,12 +1207,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A retro game engine for Python",
+            "homepage": null,
             "id": 136780445,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T07:32:03Z",
+            "open_issues": 9,
             "owner": "kitao",
             "repo": "pyxel",
-            "stars": 17779
+            "stars": 17781,
+            "topics": [
+              "game",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "graphics",
+              "html",
+              "opengl",
+              "pico-8",
+              "pixel-art",
+              "python",
+              "pyxel",
+              "retro-game",
+              "rust",
+              "tic-80",
+              "wasm",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -700,12 +1245,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CRDTs based on Yrs.",
+            "homepage": "https://y-crdt.github.io/pycrdt",
             "id": 694184693,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T06:50:50Z",
+            "open_issues": 20,
             "owner": "y-crdt",
             "repo": "pycrdt",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "crdt",
+              "python",
+              "yjs"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -716,12 +1270,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ry ~ rust-python",
+            "homepage": "http://ryo3.dev/",
             "id": 717061945,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T13:54:56Z",
+            "open_issues": 14,
             "owner": "jessekrubin",
             "repo": "ry",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "pyo3",
+              "python",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -738,12 +1301,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extremely fast Python package and project manager, written in Rust.",
+            "homepage": "https://docs.astral.sh/uv",
             "id": 699532645,
             "language": "Rust",
-            "last_commit": "2026-08-28T18:57:55Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:34:33Z",
+            "open_issues": 2865,
             "owner": "astral-sh",
             "repo": "uv",
-            "stars": 89194
+            "stars": 89202,
+            "topics": [
+              "packaging",
+              "python",
+              "resolver",
+              "uv"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -754,12 +1327,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.",
+            "homepage": "https://prek.j178.dev/",
             "id": 868811259,
             "language": "Rust",
-            "last_commit": "2026-08-28T18:51:34Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:12:14Z",
+            "open_issues": 33,
             "owner": "j178",
             "repo": "prek",
-            "stars": 8336
+            "stars": 8337,
+            "topics": [
+              "git",
+              "git-hooks",
+              "pre-commit"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -770,12 +1352,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.",
+            "homepage": "https://pixi.sh",
             "id": 633817517,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T18:41:41Z",
+            "open_issues": 663,
             "owner": "prefix-dev",
             "repo": "pixi",
-            "stars": 7652
+            "stars": 7654,
+            "topics": [
+              "conda",
+              "conda-environment",
+              "conda-packages",
+              "package-management",
+              "package-manager",
+              "package-manager-tool",
+              "python-virtual-environment",
+              "rust",
+              "rust-lang"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -786,12 +1383,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages",
+            "homepage": "https://maturin.rs",
             "id": 141846986,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T17:02:50Z",
+            "open_issues": 53,
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5775
+            "stars": 5775,
+            "topics": [
+              "cffi",
+              "cpython",
+              "cross-compile",
+              "hacktoberfest",
+              "manylinux",
+              "packaging",
+              "pyo3",
+              "pypi",
+              "pypy",
+              "python",
+              "uniffi",
+              "wheels"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -808,12 +1423,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python Interpreter written in Rust",
+            "homepage": "https://rustpython.github.io",
             "id": 135201145,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:12:51Z",
+            "open_issues": 398,
             "owner": "RustPython",
             "repo": "RustPython",
-            "stars": 22309
+            "stars": 22310,
+            "topics": [
+              "compiler",
+              "hacktoberfest",
+              "interpreter",
+              "jit",
+              "language",
+              "python-language",
+              "python3",
+              "rust",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -824,12 +1454,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust bindings for the Python interpreter",
+            "homepage": "https://pyo3.rs",
             "id": 91151442,
             "language": "Rust",
-            "last_commit": "2026-08-28T14:33:23Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:17:31Z",
+            "open_issues": 392,
             "owner": "PyO3",
             "repo": "pyo3",
-            "stars": 16080
+            "stars": 16083,
+            "topics": [
+              "binding",
+              "ffi",
+              "python",
+              "python-c-api",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -840,12 +1481,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Setuptools plugin for Rust support",
+            "homepage": "https://setuptools-rust.readthedocs.io",
             "id": 84393574,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T22:13:02Z",
+            "open_issues": 16,
             "owner": "PyO3",
             "repo": "setuptools-rust",
-            "stars": 677
+            "stars": 677,
+            "topics": [
+              "python",
+              "rust",
+              "setuptools"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -862,12 +1512,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌊 Online machine learning in Python",
+            "homepage": "https://riverml.xyz",
             "id": 167388434,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-21T19:05:47Z",
+            "open_issues": 71,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5924
+            "stars": 5925,
+            "topics": [
+              "concept-drift",
+              "data-science",
+              "incremental-learning",
+              "machine-learning",
+              "online-learning",
+              "online-machine-learning",
+              "online-statistics",
+              "python",
+              "real-time-processing",
+              "stream-processing",
+              "streaming",
+              "streaming-data"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -878,12 +1546,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast and flexible evolution engine for implementing artificial evolution and genetic programming techniques",
+            "homepage": "https://pkalivas.github.io/radiate/",
             "id": 222310153,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-23T12:22:03Z",
+            "open_issues": 0,
             "owner": "pkalivas",
             "repo": "radiate",
-            "stars": 255
+            "stars": 255,
+            "topics": [
+              "artificial-intelligence",
+              "evolutionary-algorithm",
+              "evolutionary-algorithms",
+              "genetic-algorithm",
+              "genetic-engine",
+              "genetic-programming",
+              "neat",
+              "neuroevolution",
+              "python",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -894,12 +1578,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FeOs - A Framework for Equations of State and Classical Density Functional Theory",
+            "homepage": null,
             "id": 424905104,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:13:21Z",
+            "open_issues": 33,
             "owner": "feos-org",
             "repo": "feos",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "chemical-engineering",
+              "density-functional-theory",
+              "equation-of-state",
+              "physics",
+              "python",
+              "rust",
+              "thermodynamic-properties",
+              "thermodynamics",
+              "thermodynamics-models"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -910,12 +1609,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight gradient boosted decision tree package.",
+            "homepage": "https://jinlow.github.io/forust/",
             "id": 486014834,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-13T23:15:28Z",
+            "open_issues": 10,
             "owner": "jinlow",
             "repo": "forust",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "ai",
+              "machine-learning",
+              "pyo3",
+              "python",
+              "rust",
+              "xgboost",
+              "xgboost-algorithm"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -926,12 +1638,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cellular Agent-based Modeling from a Clean Slate",
+            "homepage": "https://cellular-raza.com",
             "id": 539506551,
             "language": "Rust",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T08:02:15Z",
+            "open_issues": 5,
             "owner": "jonaspleyer",
             "repo": "cellular_raza",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "agent-based",
+              "agent-based-modeling",
+              "biology",
+              "cellular",
+              "rust",
+              "rust-library",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -948,12 +1673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python bindings for Tantivy",
+            "homepage": null,
             "id": 190163438,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-26T23:30:19Z",
+            "open_issues": 12,
             "owner": "quickwit-oss",
             "repo": "tantivy-py",
-            "stars": 425
+            "stars": 425,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -964,12 +1694,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check for multiple patterns in a single string at the same time: a fast Aho-Corasick algorithm for Python",
+            "homepage": null,
             "id": 358014052,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T12:23:54Z",
+            "open_issues": 15,
             "owner": "G-Research",
             "repo": "ahocorasick_rs",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "aho-corasick",
+              "pattern-matching",
+              "python",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -980,12 +1720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1220603817,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-25T14:48:28Z",
+            "open_issues": 0,
             "owner": "AiDinho",
             "repo": "ruosh",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -1002,12 +1747,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy",
+            "homepage": null,
             "id": 158618772,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T13:42:01Z",
+            "open_issues": 0,
             "owner": "ijl",
             "repo": "orjson",
-            "stars": 8216
+            "stars": 8216,
+            "topics": [
+              "dataclasses",
+              "datetime",
+              "deserialization",
+              "json",
+              "numpy",
+              "pyo3",
+              "python",
+              "rust",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -1018,12 +1778,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast iterable JSON parser.",
+            "homepage": "https://crates.io/crates/jiter",
             "id": 555491597,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:29:12Z",
+            "open_issues": 26,
             "owner": "pydantic",
             "repo": "jiter",
-            "stars": 545
+            "stars": 545,
+            "topics": [
+              "json",
+              "json-parser",
+              "pydantic",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -1034,12 +1804,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MessagePack serialization library for Python derived from orjson, written in Rust using PyO3",
+            "homepage": "https://ormsgpack.readthedocs.io",
             "id": 373971276,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:05:55Z",
+            "open_issues": 5,
             "owner": "ormsgpack",
             "repo": "ormsgpack",
-            "stars": 398
+            "stars": 398,
+            "topics": [
+              "dataclass",
+              "dataclasses",
+              "extension",
+              "fast",
+              "msgpack",
+              "numpy",
+              "orjson",
+              "pydantic",
+              "pyo3",
+              "python",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -1050,12 +1837,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust LP File Parser and Diff tool",
+            "homepage": "https://dandxy89.github.io/lp_parser_rs/",
             "id": 717191067,
             "language": "Mathematical Programming System",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T20:14:11Z",
+            "open_issues": 2,
             "owner": "dandxy89",
             "repo": "lp_parser_rs",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "diff",
+              "integer-programming",
+              "linear-programming",
+              "lp",
+              "lpfile",
+              "nom",
+              "parser",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -1072,12 +1873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
+            "homepage": null,
             "id": 573203730,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T05:25:57Z",
+            "open_issues": 128,
             "owner": "openai",
             "repo": "tiktoken",
-            "stars": 19113
+            "stars": 19113,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -1088,12 +1894,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+            "homepage": "https://huggingface.co/docs/tokenizers",
             "id": 219035799,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T14:43:21Z",
+            "open_issues": 242,
             "owner": "huggingface",
             "repo": "tokenizers",
-            "stars": 11000
+            "stars": 11000,
+            "topics": [
+              "bert",
+              "gpt",
+              "language-model",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "nlp",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -1104,12 +1923,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, safe way to store and distribute tensors",
+            "homepage": "https://huggingface.co/docs/safetensors",
             "id": 540033828,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:52:34Z",
+            "open_issues": 78,
             "owner": "safetensors",
             "repo": "safetensors",
-            "stars": 3878
+            "stars": 3877,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -1126,12 +1950,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Core validation logic for pydantic written in rust",
+            "homepage": null,
             "id": 477896448,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-07T07:36:47Z",
+            "open_issues": 64,
             "owner": "pydantic",
             "repo": "pydantic-core",
-            "stars": 1766
+            "stars": 1766,
+            "topics": [
+              "json-schema",
+              "parsing",
+              "pydantic",
+              "rust",
+              "schema",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -1142,12 +1978,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high-performance JSON Schema validator for Rust",
+            "homepage": "https://docs.rs/jsonschema",
             "id": 245613208,
             "language": "Rust",
-            "last_commit": "2026-08-28T17:44:30Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:42:13Z",
+            "open_issues": 11,
             "owner": "Stranger6667",
             "repo": "jsonschema",
-            "stars": 811
+            "stars": 811,
+            "topics": [
+              "jsonschema",
+              "python",
+              "rust",
+              "validation",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -1164,12 +2011,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robyn is a Super Fast Async Python Web Framework with a Rust runtime.",
+            "homepage": "https://robyn.tech/",
             "id": 378100758,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-24T18:22:10Z",
+            "open_issues": 96,
             "owner": "sparckles",
             "repo": "Robyn",
-            "stars": 7382
+            "stars": 7382,
+            "topics": [
+              "async",
+              "backend",
+              "hacktoberfest",
+              "http-server",
+              "python",
+              "python3",
+              "rust",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -1180,12 +2041,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rust HTTP server for Python applications",
+            "homepage": null,
             "id": 482022441,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-23T16:48:39Z",
+            "open_issues": 38,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5572
+            "stars": 5573,
+            "topics": [
+              "asgi",
+              "asyncio",
+              "http",
+              "http-server",
+              "python",
+              "rsgi",
+              "rust",
+              "wsgi"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -1202,12 +2077,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.",
+            "homepage": "https://selectolax.readthedocs.io/en/latest/index.html",
             "id": 112110982,
             "language": "Cython",
+            "license": "MIT",
             "last_commit": "2026-07-15T07:01:49Z",
+            "open_issues": 9,
             "owner": "rushter",
             "repo": "selectolax",
-            "stars": 1666
+            "stars": 1666,
+            "topics": [
+              "crawler",
+              "css",
+              "html",
+              "html5",
+              "parser",
+              "python",
+              "scraper",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -1218,12 +2107,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance library for inlining CSS into HTML 'style' attributes",
+            "homepage": "https://css-inline.org/",
             "id": 273900318,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:15:53Z",
+            "open_issues": 22,
             "owner": "Stranger6667",
             "repo": "css-inline",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "css",
+              "css-inline",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "python",
+              "ruby",
+              "rust",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -1234,12 +2138,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Python bindings for html5ever, using CFFI",
+            "homepage": null,
             "id": 42392351,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2017-11-09T22:24:09Z",
+            "open_issues": 0,
             "owner": "SimonSapin",
             "repo": "html5ever-python",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -1250,12 +2159,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fast, most optimal, and correct HTML & XML parsing library for Python written in Rust.",
+            "homepage": "https://awolverp.github.io/markupever",
             "id": 910137766,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-21T17:50:39Z",
+            "open_issues": 2,
             "owner": "awolverp",
             "repo": "markupever",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "html5ever",
+              "library",
+              "markup-languages",
+              "parser",
+              "python",
+              "rust",
+              "scraping",
+              "selectors",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         },
@@ -1266,12 +2190,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for converting HTML to markup or plain text",
+            "homepage": null,
             "id": 834884150,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-23T00:32:23Z",
+            "open_issues": 2,
             "owner": "deedy5",
             "repo": "html2text_rs",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "html-to-markdown",
+              "html-to-text",
+              "html2markdown",
+              "html2md",
+              "html2text",
+              "markdown",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:05:09.466Z"
         }
@@ -1280,15 +2217,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:05:09.466Z",
+    "last_updated": "2026-08-29T04:58:04.427Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Python tools, libraries, and frameworks with Rust under the hood.",
+      "homepage": null,
       "id": 1147969798,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-06T14:33:03Z",
+      "open_issues": 0,
       "owner": "ritwiktiwari",
       "repo": "awesome-python-rs",
-      "stars": 107
+      "stars": 107,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "curated-list",
+        "python",
+        "python-rust",
+        "rust"
+      ]
     },
     "original_repository_sha": "81fcd1e055f3bf306a7061cd816c8306cc42d8df",
     "enhanced_repository": "enhansome/enhansome-python-rs",
