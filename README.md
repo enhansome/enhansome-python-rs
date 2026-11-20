@@ -40,34 +40,34 @@
 ## Bioinformatics & Astronomy
 
 * [satkit](https://github.com/ssmichael1/satkit) ⭐ 98 | 🐛 1 | 🌐 Rust | 📅 2026-11-15 - Satellite and orbital mechanics toolkit for astrodynamics calculations including orbit propagation and coordinate transformations.
-* [bed-reader](https://github.com/fastlmm/bed-reader) ⭐ 87 | 🐛 2 | 🌐 Rust | 📅 2026-11-19 - Read and write the PLINK BED format, simply and efficiently.
+* [bed-reader](https://github.com/fastlmm/bed-reader) ⭐ 87 | 🐛 3 | 🌐 Rust | 📅 2026-11-19 - Read and write the PLINK BED format, simply and efficiently.
 * [mocpy](https://github.com/cds-astro/mocpy) ⭐ 78 | 🐛 7 | 🌐 Python | 📅 2026-10-27 - Astronomical Python library for describing coverage regions on the unit sphere.
 * [haem](https://github.com/BooleanCat/haem) ⭐ 17 | 🐛 6 | 🌐 Python | 📅 2026-06-29 - A Python library for working on bioinformatics problems.
 
 ## Cloud Storage
 
-* [opendal](https://github.com/apache/opendal) ⭐ 5,483 | 🐛 370 | 🌐 Rust | 📅 2026-11-19 - Apache OpenDAL: unified data access layer for all storage services.
+* [opendal](https://github.com/apache/opendal) ⭐ 5,484 | 🐛 369 | 🌐 Rust | 📅 2026-11-20 - Apache OpenDAL: unified data access layer for all storage services.
 * [obstore](https://github.com/developmentseed/obstore) ⭐ 840 | 🐛 60 | 🌐 Python | 📅 2026-11-16 - High-throughput Python interface to S3, GCS, and Azure Storage.
 
 ## Cryptography & Hashing
 
-* [cryptography](https://github.com/pyca/cryptography) ⭐ 7,852 | 🐛 58 | 🌐 Python | 📅 2026-11-19 - The standard Python cryptographic library, with performance-critical parts in Rust.
+* [cryptography](https://github.com/pyca/cryptography) ⭐ 7,853 | 🐛 60 | 🌐 Python | 📅 2026-11-20 - The standard Python cryptographic library, with performance-critical parts in Rust.
 * [blake3-py](https://github.com/oconnor663/blake3-py) ⭐ 209 | 🐛 5 | 🌐 Python | 📅 2026-11-01 - Python bindings for the BLAKE3 cryptographic hash function.
 * [johnnycanencrypt](https://github.com/kushaldas/johnnycanencrypt) ⭐ 53 | 🐛 2 | 🌐 Rust | 📅 2026-02-05 - OpenPGP library with Yubikey support.
 
 ## Data Processing & DataFrames
 
-* [pathway](https://github.com/pathwaycom/pathway) ⭐ 61,982 | 🐛 41 | 🌐 Python | 📅 2026-11-19 - Performant Python ETL framework with a Rust runtime.
-* [polars](https://github.com/pola-rs/polars) ⭐ 40,384 | 🐛 2,841 | 🌐 Rust | 📅 2026-11-19 - DataFrame library with lazy evaluation and parallel execution.
-* [sail](https://github.com/lakehq/sail) ⭐ 3,504 | 🐛 298 | 🌐 Rust | 📅 2026-11-19 - Unifying stream, batch, and AI workloads with Apache Spark compatibility.
-* [delta-rs](https://github.com/delta-io/delta-rs) ⭐ 3,369 | 🐛 189 | 🌐 Rust | 📅 2026-11-18 - Native Rust library for Delta Lake with Python bindings (`deltalake` on PyPI).
-* [connector-x](https://github.com/sfu-db/connector-x) ⭐ 2,666 | 🐛 172 | 🌐 Rust | 📅 2026-11-17 - Fastest library to load data from databases into DataFrames.
-* [datafusion-python](https://github.com/apache/datafusion-python) ⭐ 613 | 🐛 131 | 🌐 Python | 📅 2026-11-15 - Python bindings for Apache DataFusion, an in-memory query engine.
+* [pathway](https://github.com/pathwaycom/pathway) ⭐ 61,982 | 🐛 38 | 🌐 Python | 📅 2026-11-20 - Performant Python ETL framework with a Rust runtime.
+* [polars](https://github.com/pola-rs/polars) ⭐ 40,396 | 🐛 2,848 | 🌐 Rust | 📅 2026-11-20 - DataFrame library with lazy evaluation and parallel execution.
+* [sail](https://github.com/lakehq/sail) ⭐ 3,504 | 🐛 303 | 🌐 Rust | 📅 2026-11-20 - Unifying stream, batch, and AI workloads with Apache Spark compatibility.
+* [delta-rs](https://github.com/delta-io/delta-rs) ⭐ 3,372 | 🐛 190 | 🌐 Rust | 📅 2026-11-20 - Native Rust library for Delta Lake with Python bindings (`deltalake` on PyPI).
+* [connector-x](https://github.com/sfu-db/connector-x) ⭐ 2,665 | 🐛 172 | 🌐 Rust | 📅 2026-11-20 - Fastest library to load data from databases into DataFrames.
+* [datafusion-python](https://github.com/apache/datafusion-python) ⭐ 612 | 🐛 131 | 🌐 Python | 📅 2026-11-15 - Python bindings for Apache DataFusion, an in-memory query engine.
 * [hudi-rs](https://github.com/apache/hudi-rs) ⭐ 283 | 🐛 149 | 🌐 Rust | 📅 2026-11-13 - Native Rust implementation for Apache Hudi with Python bindings.
 
 ## Date & Time
 
-* [pendulum](https://github.com/python-pendulum/pendulum) ⭐ 6,683 | 🐛 305 | 🌐 Python | 📅 2026-10-26 - Python datetimes made easy; performance-critical parts rewritten from C to Rust in v3.
+* [pendulum](https://github.com/python-pendulum/pendulum) ⭐ 6,684 | 🐛 305 | 🌐 Python | 📅 2026-10-26 - Python datetimes made easy; performance-critical parts rewritten from C to Rust in v3.
 * [whenever](https://github.com/ariebovenberg/whenever) ⭐ 2,417 | 🐛 5 | 🌐 Python | 📅 2026-11-17 - Typed and DST-safe datetimes for Python.
 
 ## Data Structures
@@ -79,12 +79,12 @@
 
 ## File Watching & System Utilities
 
-* [watchfiles](https://github.com/samuelcolvin/watchfiles) ⭐ 2,566 | 🐛 55 | 🌐 Python | 📅 2026-11-01 - Simple, modern, fast file watching and code reload, powered by Rust's `notify` crate.
+* [watchfiles](https://github.com/samuelcolvin/watchfiles) ⭐ 2,564 | 🐛 55 | 🌐 Python | 📅 2026-11-01 - Simple, modern, fast file watching and code reload, powered by Rust's `notify` crate.
 * [cramjam](https://github.com/milesgranger/cramjam) ⭐ 130 | 🐛 9 | 🌐 Rust | 📅 2026-11-13 - Thin Python bindings to de/compression algorithms (snappy, brotli, lz4, zstd, etc.).
 
 ## Finance
 
-* [rateslib](https://github.com/attack68/rateslib) ⭐ 373 | 🐛 22 | 📅 2026-05-20 - A fixed income library for Python using Rust extensions.
+* [rateslib](https://github.com/attack68/rateslib) ⭐ 372 | 🐛 22 | 📅 2026-05-20 - A fixed income library for Python using Rust extensions.
 * [finalytics](https://github.com/Nnamdi-sys/finalytics) ⭐ 78 | 🐛 0 | 🌐 Rust | 📅 2026-11-15 - Investment analysis library.
 
 ## Geospatial
@@ -95,57 +95,57 @@
 
 ## Graph Libraries
 
-* [rustworkx](https://github.com/Qiskit/rustworkx) ⭐ 1,786 | 🐛 147 | 🌐 Rust | 📅 2026-11-18 - A high-performance Python graph library (originally created for Qiskit).
+* [rustworkx](https://github.com/Qiskit/rustworkx) ⭐ 1,785 | 🐛 147 | 🌐 Rust | 📅 2026-11-18 - A high-performance Python graph library (originally created for Qiskit).
 
 ## HTTP Clients
 
-* [rnet](https://github.com/0x676e67/rnet) ⭐ 1,524 | 🐛 12 | 🌐 Python | 📅 2026-11-15 - Asynchronous Python HTTP client powered by Rust.
-* [primp](https://github.com/deedy5/primp) ⭐ 635 | 🐛 6 | 🌐 Rust | 📅 2026-09-13 - Fast HTTP client that can impersonate browsers by mimicking TLS/JA3/HTTP2 fingerprints.
+* [rnet](https://github.com/0x676e67/rnet) ⭐ 1,525 | 🐛 12 | 🌐 Python | 📅 2026-11-15 - Asynchronous Python HTTP client powered by Rust.
+* [primp](https://github.com/deedy5/primp) ⭐ 634 | 🐛 6 | 🌐 Rust | 📅 2026-09-13 - Fast HTTP client that can impersonate browsers by mimicking TLS/JA3/HTTP2 fingerprints.
 * [pyreqwest](https://github.com/MarkusSintonen/pyreqwest) ⭐ 410 | 🐛 7 | 🌐 Python | 📅 2026-11-07 - Fast HTTP client built on Rust's reqwest library with async/sync support and full type safety.
 
 ## Linting, Formatting & Type Checking
 
-* [ruff](https://github.com/astral-sh/ruff) ⭐ 51,315 | 🐛 2,302 | 🌐 Rust | 📅 2026-11-19 - An extremely fast Python linter and code formatter.
-* [ty](https://github.com/astral-sh/ty) ⭐ 20,121 | 🐛 998 | 🌐 Python | 📅 2026-11-18 - An extremely fast Python type checker and language server by Astral.
-* [pyrefly](https://github.com/facebook/pyrefly) ⭐ 7,212 | 🐛 535 | 🌐 Rust | 📅 2026-11-19 - A fast Python type checker and language server from Meta.
-* [pylyzer](https://github.com/mtshiba/pylyzer) ⭐ 2,851 | 🐛 10 | 🌐 Rust | 📅 2025-05-10 - A fast static type checker and language server for Python, over 100x faster than Pyright.
-* [rumdl](https://github.com/rvben/rumdl) ⭐ 1,682 | 🐛 8 | 🌐 Rust | 📅 2026-11-18 - A high-performance Markdown linter and formatter written in Rust.
-* [zuban](https://github.com/zubanls/zuban) ⭐ 1,245 | 🐛 73 | 🌐 Rust | 📅 2026-11-18 - A high-performance Python language server and type checker with PyRight-like and Mypy-compatible modes.
+* [ruff](https://github.com/astral-sh/ruff) ⭐ 51,324 | 🐛 2,317 | 🌐 Rust | 📅 2026-11-20 - An extremely fast Python linter and code formatter.
+* [ty](https://github.com/astral-sh/ty) ⭐ 20,124 | 🐛 999 | 🌐 Python | 📅 2026-11-20 - An extremely fast Python type checker and language server by Astral.
+* [pyrefly](https://github.com/facebook/pyrefly) ⭐ 7,219 | 🐛 513 | 🌐 Rust | 📅 2026-11-20 - A fast Python type checker and language server from Meta.
+* [pylyzer](https://github.com/mtshiba/pylyzer) ⭐ 2,850 | 🐛 10 | 🌐 Rust | 📅 2025-05-10 - A fast static type checker and language server for Python, over 100x faster than Pyright.
+* [rumdl](https://github.com/rvben/rumdl) ⭐ 1,686 | 🐛 10 | 🌐 Rust | 📅 2026-11-20 - A high-performance Markdown linter and formatter written in Rust.
+* [zuban](https://github.com/zubanls/zuban) ⭐ 1,248 | 🐛 72 | 🌐 Rust | 📅 2026-11-20 - A high-performance Python language server and type checker with PyRight-like and Mypy-compatible modes.
 
 ## Miscellaneous
 
-* [pyxel](https://github.com/kitao/pyxel) ⭐ 18,652 | 🐛 15 | 🌐 Rust | 📅 2026-11-19 - A retro game engine for Python, with core written in Rust.
-* [pycrdt](https://github.com/jupyter-server/pycrdt) ⭐ 211 | 🐛 35 | 🌐 Python | 📅 2026-11-19 - Python bindings for the Yrs Rust CRDT implementation (collaborative editing).
-* [ry](https://github.com/jessekrubin/ry) ⭐ 79 | 🐛 17 | 🌐 Rust | 📅 2026-11-19 - Collection of Python bindings to Rust crates providing utilities for async HTTP, datetime, file I/O, and compression.
+* [pyxel](https://github.com/kitao/pyxel) ⭐ 18,654 | 🐛 15 | 🌐 Rust | 📅 2026-11-20 - A retro game engine for Python, with core written in Rust.
+* [pycrdt](https://github.com/jupyter-server/pycrdt) ⭐ 211 | 🐛 33 | 🌐 Python | 📅 2026-11-20 - Python bindings for the Yrs Rust CRDT implementation (collaborative editing).
+* [ry](https://github.com/jessekrubin/ry) ⭐ 79 | 🐛 13 | 🌐 Rust | 📅 2026-11-19 - Collection of Python bindings to Rust crates providing utilities for async HTTP, datetime, file I/O, and compression.
 
 ## Package Management & Tooling
 
-* [uv](https://github.com/astral-sh/uv) ⭐ 92,410 | 🐛 3,084 | 🌐 Rust | 📅 2026-11-19 - An extremely fast Python package and project manager. 10-100x faster than pip, replaces pip-tools, poetry, pyenv, pipx, and virtualenv in a single tool.
-* [prek](https://github.com/j178/prek) ⭐ 8,822 | 🐛 43 | 🌐 Rust | 📅 2026-11-19 - A fast Rust-based reimplementation of the pre-commit framework for managing Git hooks.
-* [pixi](https://github.com/prefix-dev/pixi) ⭐ 7,999 | 🐛 599 | 🌐 Rust | 📅 2026-11-19 - A fast conda/pip package manager.
-* [maturin](https://github.com/PyO3/maturin) ⭐ 5,882 | 🐛 59 | 🌐 Rust | 📅 2026-11-16 - Build and publish Rust-based Python packages with pyo3, cffi, and uniffi bindings.
+* [uv](https://github.com/astral-sh/uv) ⭐ 92,456 | 🐛 3,085 | 🌐 Rust | 📅 2026-11-20 - An extremely fast Python package and project manager. 10-100x faster than pip, replaces pip-tools, poetry, pyenv, pipx, and virtualenv in a single tool.
+* [prek](https://github.com/j178/prek) ⭐ 8,823 | 🐛 42 | 🌐 Rust | 📅 2026-11-20 - A fast Rust-based reimplementation of the pre-commit framework for managing Git hooks.
+* [pixi](https://github.com/prefix-dev/pixi) ⭐ 8,001 | 🐛 598 | 🌐 Rust | 📅 2026-11-20 - A fast conda/pip package manager.
+* [maturin](https://github.com/PyO3/maturin) ⭐ 5,888 | 🐛 59 | 🌐 Rust | 📅 2026-11-16 - Build and publish Rust-based Python packages with pyo3, cffi, and uniffi bindings.
 
 ## Profiling
 
-* [filprofiler](https://github.com/pythonspeed/filprofiler/) ⭐ 908 | 🐛 106 | 🌐 Rust | 📅 2026-05-03 - Memory profiler for Python that identifies peak memory usage and allocation sources in data processing applications.
+* [filprofiler](https://github.com/pythonspeed/filprofiler/) ⭐ 907 | 🐛 106 | 🌐 Rust | 📅 2026-05-03 - Memory profiler for Python that identifies peak memory usage and allocation sources in data processing applications.
 
 ## Rust-Python Interop
 
-* [RustPython](https://github.com/RustPython/RustPython) ⭐ 22,495 | 🐛 335 | 🌐 Rust | 📅 2026-11-19 - A Python 3 interpreter written entirely in Rust.
-* [PyO3](https://github.com/PyO3/pyo3) ⭐ 16,338 | 🐛 421 | 🌐 Rust | 📅 2026-11-19 - Rust bindings for the Python interpreter. The foundation for most projects on this list.
-* [setuptools-rust](https://github.com/PyO3/setuptools-rust) ⭐ 682 | 🐛 16 | 🌐 Python | 📅 2026-11-01 - Setuptools plugin for Rust extensions.
+* [RustPython](https://github.com/RustPython/RustPython) ⭐ 22,497 | 🐛 339 | 🌐 Rust | 📅 2026-11-19 - A Python 3 interpreter written entirely in Rust.
+* [PyO3](https://github.com/PyO3/pyo3) ⭐ 16,347 | 🐛 418 | 🌐 Rust | 📅 2026-11-19 - Rust bindings for the Python interpreter. The foundation for most projects on this list.
+* [setuptools-rust](https://github.com/PyO3/setuptools-rust) ⭐ 681 | 🐛 16 | 🌐 Python | 📅 2026-11-01 - Setuptools plugin for Rust extensions.
 
 ## Scientific Computing
 
-* [river](https://github.com/online-ml/river) ⭐ 6,150 | 🐛 87 | 🌐 Python | 📅 2026-11-17 - Online machine learning in Python; computationally heavy algorithms in Rust.
+* [river](https://github.com/online-ml/river) ⭐ 6,151 | 🐛 87 | 🌐 Python | 📅 2026-11-17 - Online machine learning in Python; computationally heavy algorithms in Rust.
 * [radiate](https://github.com/pkalivas/radiate) ⭐ 258 | 🐛 0 | 🌐 Rust | 📅 2026-11-19 - A high-performance evolution engine for genetic programming and evolutionary algorithms.
 * [feos](https://github.com/feos-org/feos) ⭐ 205 | 🐛 20 | 🌐 Rust | 📅 2026-11-18 - Lightning fast thermodynamic modeling with a fully developed Python interface.
-* [forust](https://github.com/jinlow/forust) ⭐ 99 | 🐛 9 | 🌐 Rust | 📅 2026-11-12 - A lightweight gradient boosted decision tree library.
+* [forust](https://github.com/jinlow/forust) ⭐ 100 | 🐛 9 | 🌐 Rust | 📅 2026-11-12 - A lightweight gradient boosted decision tree library.
 * [cellular\_raza](https://github.com/jonaspleyer/cellular_raza) ⭐ 23 | 🐛 5 | 🌐 Rust | 📅 2026-10-08 - A cellular agent-based simulation framework.
 
 ## Search & Indexing
 
-* [tantivy-py](https://github.com/quickwit-oss/tantivy-py) ⭐ 437 | 🐛 11 | 🌐 Rust | 📅 2026-11-19 - Python bindings for Tantivy, a full-text search engine library (Lucene alternative).
+* [tantivy-py](https://github.com/quickwit-oss/tantivy-py) ⭐ 436 | 🐛 10 | 🌐 Rust | 📅 2026-11-20 - Python bindings for Tantivy, a full-text search engine library (Lucene alternative).
 * [ahocorasick\_rs](https://github.com/G-Research/ahocorasick_rs/) ⭐ 236 | 🐛 16 | 🌐 Python | 📅 2026-09-07 - Fast multi-pattern string search using the Aho-Corasick algorithm, 1.5-7x faster than alternatives.
 * [ruosh](https://github.com/AiDinho/ruosh) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-04-25 - A pythonic  full-text search library with a  Whoosh-like API, but the search engine underneath is Tantivy.
 
@@ -156,8 +156,8 @@
 ## Serialization & Parsing
 
 * [orjson](https://github.com/ijl/orjson) ⭐ 8,291 | 🐛 0 | 🌐 Python | 📅 2026-10-07 - Fast, correct JSON library supporting dataclasses, datetimes, and numpy.
-* [jiter](https://github.com/pydantic/jiter) ⭐ 577 | 🐛 26 | 🌐 Rust | 📅 2026-11-06 - Fast iterable JSON parser, used by pydantic and the OpenAI Python SDK.
-* [ormsgpack](https://github.com/aviramha/ormsgpack) ⭐ 406 | 🐛 3 | 🌐 Rust | 📅 2026-11-18 - Fast MessagePack serialization/deserialization, derived from orjson.
+* [jiter](https://github.com/pydantic/jiter) ⭐ 576 | 🐛 27 | 🌐 Rust | 📅 2026-11-20 - Fast iterable JSON parser, used by pydantic and the OpenAI Python SDK.
+* [ormsgpack](https://github.com/aviramha/ormsgpack) ⭐ 406 | 🐛 5 | 🌐 Rust | 📅 2026-11-19 - Fast MessagePack serialization/deserialization, derived from orjson.
 * [lp\_parser\_rs](https://github.com/dandxy89/lp_parser_rs) ⭐ 5 | 🐛 0 | 🌐 Mathematical Programming System | 📅 2026-11-18 - Parser for Linear Programming files supporting IBM CPLEX, FICO Xpress, Gurobi, and Mosek formats.
 
 ## Sorting
@@ -166,32 +166,32 @@
 
 ## Testing
 
-* [supercov](https://github.com/supercorp-ai/supercov) ⭐ 167 | 🐛 2 | 🌐 Rust | 📅 2026-11-13 - Line, branch and MC/DC coverage per test for pytest and unittest runs, measured by a Rust CLI installed from PyPI.
+* [supercov](https://github.com/supercorp-ai/supercov) ⭐ 167 | 🐛 3 | 🌐 Rust | 📅 2026-11-20 - Line, branch and MC/DC coverage per test for pytest and unittest runs, measured by a Rust CLI installed from PyPI.
 
 ## Tokenization & ML
 
-* [tiktoken](https://github.com/openai/tiktoken) ⭐ 19,687 | 🐛 156 | 🌐 Python | 📅 2026-11-08 - A fast BPE tokenizer for use with OpenAI's models.
-* [tokenizers](https://github.com/huggingface/tokenizers) ⭐ 11,259 | 🐛 188 | 🌐 Rust | 📅 2026-11-19 - Hugging Face's fast tokenizer library with Python bindings.
-* [safetensors](https://github.com/huggingface/safetensors) ⭐ 3,959 | 🐛 143 | 🌐 Rust | 📅 2026-11-19 - A safe and fast format for storing and loading tensors.
+* [tiktoken](https://github.com/openai/tiktoken) ⭐ 19,693 | 🐛 157 | 🌐 Python | 📅 2026-11-08 - A fast BPE tokenizer for use with OpenAI's models.
+* [tokenizers](https://github.com/huggingface/tokenizers) ⭐ 11,262 | 🐛 192 | 🌐 Rust | 📅 2026-11-20 - Hugging Face's fast tokenizer library with Python bindings.
+* [safetensors](https://github.com/huggingface/safetensors) ⭐ 3,968 | 🐛 135 | 🌐 Rust | 📅 2026-11-20 - A safe and fast format for storing and loading tensors.
 
 ## Validation & Data Modeling
 
 * [pydantic-core](https://github.com/pydantic/pydantic-core) ⚠️ Archived - Core validation logic for pydantic, written in Rust.
-* [jsonschema-rs](https://github.com/Stranger6667/jsonschema) ⭐ 837 | 🐛 15 | 🌐 Rust | 📅 2026-11-19 - A high-performance JSON Schema validator.
+* [jsonschema-rs](https://github.com/Stranger6667/jsonschema) ⭐ 837 | 🐛 14 | 🌐 Rust | 📅 2026-11-20 - A high-performance JSON Schema validator.
 
 ## Visualization
 
-* [rerun](https://github.com/rerun-io/rerun) ⭐ 11,835 | 🐛 1,244 | 🌐 Rust | 📅 2026-11-19 - Visualize streams of multimodal data. Built in Rust with a Python SDK.
+* [rerun](https://github.com/rerun-io/rerun) ⭐ 11,842 | 🐛 1,244 | 🌐 Rust | 📅 2026-11-20 - Visualize streams of multimodal data. Built in Rust with a Python SDK.
 
 ## Web Frameworks & Servers
 
 * [robyn](https://github.com/sansyrox/robyn) ⭐ 7,432 | 🐛 103 | 🌐 Python | 📅 2026-11-16 - A super fast async Python web framework with a Rust runtime.
-* [granian](https://github.com/emmett-framework/granian) ⭐ 5,796 | 🐛 55 | 🌐 Rust | 📅 2026-11-18 - A Rust HTTP server for Python WSGI/ASGI/RSGI apps, built on Hyper and Tokio.
+* [granian](https://github.com/emmett-framework/granian) ⭐ 5,795 | 🐛 52 | 🌐 Rust | 📅 2026-11-20 - A Rust HTTP server for Python WSGI/ASGI/RSGI apps, built on Hyper and Tokio.
 
 ## Web Scraping & HTML
 
-* [selectolax](https://github.com/rushter/selectolax) ⭐ 1,718 | 🐛 2 | 🌐 Python | 📅 2026-11-10 - Fast HTML5 parser with CSS selectors, using Rust's html5ever engine.
-* [css-inline](https://github.com/Stranger6667/css-inline) ⭐ 322 | 🐛 7 | 🌐 Rust | 📅 2026-11-18 - CSS inlining implemented in Rust, for fast HTML email preparation.
+* [selectolax](https://github.com/rushter/selectolax) ⭐ 1,717 | 🐛 2 | 🌐 Python | 📅 2026-11-10 - Fast HTML5 parser with CSS selectors, using Rust's html5ever engine.
+* [css-inline](https://github.com/Stranger6667/css-inline) ⭐ 321 | 🐛 6 | 🌐 Rust | 📅 2026-11-19 - CSS inlining implemented in Rust, for fast HTML email preparation.
 * [markupever](https://github.com/awolverp/markupever) ⭐ 40 | 🐛 1 | 🌐 Rust | 📅 2026-11-16 - High-performance HTML and XML parser with CSS selector support built on Rust's html5ever engine.
 * [html-py-ever](https://github.com/SimonSapin/html5ever-python) ⚠️ Archived - Fast HTML parsing and CSS selecting via html5ever.
 * [html2text-rs](https://github.com/deedy5/html2text_rs) ⭐ 19 | 🐛 2 | 🌐 Rust | 📅 2026-04-23 - Python library for converting HTML to markup or plain text.
@@ -221,4 +221,4 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
